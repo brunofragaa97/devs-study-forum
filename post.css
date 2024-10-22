@@ -1,0 +1,15 @@
+.post {
+   margin: 1%;
+}
+.post img {
+    border-radius: 50%; /* Imagem em formato circular */
+    width: 50px; /* Largura da imagem */
+    height: 50px; /* Altura da imagem */
+}
+.post-header {
+    display: flex; /* Flexbox para alinhar imagem e texto */
+    align-items: center; /* Alinha verticalmente no centro */
+}
+.post-content {
+    margin-top: 10px; /* Espaçamento acima do conteúdo do post */
+}

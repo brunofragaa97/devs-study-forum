@@ -1,0 +1,17 @@
+.modal-header{
+    background-color: rgb(54, 179, 179);
+    color: yellow;
+   
+}
+.modal-body{
+    background-color: black;
+    max-height: 500px; /* Define uma altura máxima */
+    overflow-y: auto; /* Adiciona rolagem se o conteúdo ultrapassar a altura */
+    color: white;
+   
+}
+
+.modal-footer{
+    background-color: brown;
+   
+}
